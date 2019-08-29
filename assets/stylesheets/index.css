@@ -1,0 +1,41 @@
+h1 { 
+    color: rgb(249, 166, 2); 
+}
+
+body { 
+    background: rgba(208, 33, 32, 1.0);
+}
+
+h1 {
+    font-family: "futura";
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+body {
+	font-size: 12px;
+}
+
+h1 {
+	font-size: 5.0em;
+}
+
+p {
+	font-size: 2.0em;
+}
+
+span {
+	font-size: 1.0em;
+}
+
+h1{
+    padding: 1cm; 
+}
+
+/*
+h1 { 
+    color: gold; 
+}
+
+*/
